@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amanrawat6767@gmail.com**
 
-- ⚡ Fun fact **I love movies**
+- ⚡ Fun fact **I expend 1 year in Android but i never use Android emulator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
