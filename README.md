@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="Header" width="100%">
+  <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Flutter Dash" width="400">
 </div>
 
 <h1 align="center">
