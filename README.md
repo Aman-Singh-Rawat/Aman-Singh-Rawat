@@ -114,7 +114,8 @@ class AmanSingh extends FlutterDeveloper {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-193248252/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/amansingh1245/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanrawat6767@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([https://github.com/Aman-Singh-Rawat/resume/blob/main/android_resume.pdf](https://drive.google.com/file/d/1Li6cHbMhFGKZJ0kILeGTPLPLg355KX0U/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Li6cHbMhFGKZJ0kILeGTPLPLg355KX0U/view)
+
 
 </div>
 
